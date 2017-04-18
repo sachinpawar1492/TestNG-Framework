@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suiteGuru" duration-ms="18794" started-at="2017-04-18T14:47:53Z" finished-at="2017-04-18T14:48:12Z">
+    <groups>
+    </groups>
+    <test name="testGuru" duration-ms="18794" started-at="2017-04-18T14:47:53Z" finished-at="2017-04-18T14:48:12Z">
+      <class name="testNG.DummyTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testNG.DummyTest@91161c7]" name="beforeClass" is-config="true" duration-ms="99" started-at="2017-04-18T16:47:53Z" finished-at="2017-04-18T16:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openGuru()[pri:1, instance:testNG.DummyTest@91161c7]" name="openGuru" duration-ms="6708" started-at="2017-04-18T16:47:53Z" finished-at="2017-04-18T16:48:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGuru -->
+        <test-method status="PASS" signature="loginGuru()[pri:2, instance:testNG.DummyTest@91161c7]" name="loginGuru" duration-ms="2252" started-at="2017-04-18T16:48:00Z" depends-on-methods="testNG.DummyTest.openGuru" finished-at="2017-04-18T16:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginGuru -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:3, instance:testNG.DummyTest@91161c7]" name="addNewCustomer" duration-ms="6621" started-at="2017-04-18T16:48:02Z" depends-on-methods="testNG.DummyTest.loginGuru" finished-at="2017-04-18T16:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="deleteCustomer()[pri:4, instance:testNG.DummyTest@91161c7]" name="deleteCustomer" duration-ms="3073" started-at="2017-04-18T16:48:08Z" finished-at="2017-04-18T16:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomer -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testNG.DummyTest@91161c7]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2017-04-18T16:48:12Z" finished-at="2017-04-18T16:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testNG.DummyTest -->
+    </test> <!-- testGuru -->
+  </suite> <!-- suiteGuru -->
+</testng-results>

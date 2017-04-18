@@ -1,0 +1,156 @@
+2017-04-17 17:57:29,051 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-17 17:57:30,194 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-17 17:57:32,386 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-17 17:57:34,547 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-17 17:57:34,577 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-17 17:57:37,715 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-17 17:57:38,147 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-17 17:57:41,263 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-17 17:57:41,284 [main] INFO utilities.Log - Customer with Customer ID : 7671 registered successfully !
+2017-04-17 17:57:41,313 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 00:06:25,731 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 00:06:27,379 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 00:06:29,562 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 00:06:31,745 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 00:06:31,780 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 00:06:34,894 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 00:06:35,331 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 00:06:38,401 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 00:06:38,420 [main] INFO utilities.Log - Customer with Customer ID : 49197 registered successfully !
+2017-04-18 00:06:38,447 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 00:28:26,802 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 00:28:27,964 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 00:28:30,173 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 00:28:32,319 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 00:28:32,350 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 00:28:35,469 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 00:28:35,863 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 00:30:57,216 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 00:30:58,310 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 00:31:00,544 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 00:31:02,725 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 00:31:02,762 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 00:31:05,858 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 00:31:06,328 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 00:31:09,420 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 00:31:09,444 [main] INFO utilities.Log - Customer with Customer ID : 65667 registered successfully !
+2017-04-18 00:31:09,480 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 01:01:45,446 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 01:01:46,698 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 01:01:48,900 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 01:01:50,994 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 01:01:51,041 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 01:01:54,149 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 01:01:54,552 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 01:01:57,623 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 01:01:57,643 [main] INFO utilities.Log - Customer with Customer ID : 39462 registered successfully !
+2017-04-18 01:01:57,674 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 14:35:42,176 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 14:35:43,848 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 14:35:46,054 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 14:35:48,164 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 14:35:48,194 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 14:35:51,312 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 14:35:51,691 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 14:35:54,776 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 14:35:54,803 [main] INFO utilities.Log - Customer with Customer ID : 95094 registered successfully !
+2017-04-18 14:35:54,832 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 14:38:57,778 [main] INFO utilities.Log - Test openGuru Started !
+2017-04-18 14:39:01,363 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 14:39:02,321 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 14:39:04,323 [main] INFO utilities.Log - Test openGuru Succeeded !
+2017-04-18 14:39:04,335 [main] INFO utilities.Log - Test loginGuru Started !
+2017-04-18 14:39:04,565 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 14:39:06,732 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 14:39:06,734 [main] INFO utilities.Log - Test loginGuru Succeeded !
+2017-04-18 14:39:06,735 [main] INFO utilities.Log - Test addNewCustomer Started !
+2017-04-18 14:39:06,764 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 14:39:09,859 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 14:39:10,264 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 14:39:13,351 [main] ERROR utilities.Log - Test addNewCustomer Failed !
+2017-04-18 14:55:37,659 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 14:55:40,855 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 14:55:43,897 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 14:55:46,410 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 14:55:46,726 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 14:55:50,244 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 14:55:53,214 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 14:55:56,525 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 14:55:56,743 [main] INFO utilities.Log - Customer with Customer ID : 90060 registered successfully !
+2017-04-18 14:55:57,004 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 15:09:48,472 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 15:09:49,342 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 15:09:51,508 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 15:09:53,584 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 15:09:53,629 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 15:09:56,698 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 15:09:57,145 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 15:10:00,219 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 15:10:00,252 [main] INFO utilities.Log - Customer with Customer ID : 37719 registered successfully !
+2017-04-18 15:10:00,300 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 15:14:33,067 [main] INFO utilities.Log - Test openGuru Started !
+2017-04-18 15:14:36,293 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 15:14:37,191 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 15:14:39,195 [main] INFO utilities.Log - Test openGuru Succeeded !
+2017-04-18 15:14:39,205 [main] INFO utilities.Log - Test loginGuru Started !
+2017-04-18 15:14:39,357 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 15:14:41,428 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 15:14:41,430 [main] INFO utilities.Log - Test loginGuru Succeeded !
+2017-04-18 15:14:41,432 [main] INFO utilities.Log - Test addNewCustomer Started !
+2017-04-18 15:14:41,459 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 15:14:44,516 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 15:14:44,946 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 15:14:48,005 [main] ERROR utilities.Log - Test addNewCustomer Failed !
+2017-04-18 15:25:03,636 [main] INFO utilities.Log - Test openGuru Started !
+2017-04-18 15:25:06,707 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 15:25:07,668 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 15:25:09,671 [main] INFO utilities.Log - Test openGuru Succeeded !
+2017-04-18 15:25:09,678 [main] INFO utilities.Log - Test loginGuru Started !
+2017-04-18 15:25:09,839 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 15:25:11,910 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 15:25:11,913 [main] INFO utilities.Log - Test loginGuru Succeeded !
+2017-04-18 15:25:11,915 [main] INFO utilities.Log - Test addNewCustomer Started !
+2017-04-18 15:25:11,943 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 15:25:15,017 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 15:25:15,458 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 15:25:18,521 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 15:25:18,545 [main] INFO utilities.Log - Customer with Customer ID : 21701 registered successfully !
+2017-04-18 15:25:18,575 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 15:25:18,579 [main] INFO utilities.Log - Test addNewCustomer Succeeded !
+2017-04-18 15:25:18,596 [main] INFO utilities.Log - Suite Run Ended !
+2017-04-18 15:27:51,626 [main] INFO utilities.Log - Test openGuru Started !
+2017-04-18 15:27:54,745 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 15:27:55,699 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 15:27:57,702 [main] INFO utilities.Log - Test openGuru Succeeded !
+2017-04-18 15:27:57,713 [main] INFO utilities.Log - Test loginGuru Started !
+2017-04-18 15:27:57,865 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 15:27:59,937 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 15:27:59,939 [main] INFO utilities.Log - Test loginGuru Succeeded !
+2017-04-18 15:27:59,940 [main] INFO utilities.Log - Test addNewCustomer Started !
+2017-04-18 15:27:59,967 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 15:28:03,046 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 15:28:03,491 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 15:28:06,542 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 15:28:06,568 [main] INFO utilities.Log - Customer with Customer ID : 75277 registered successfully !
+2017-04-18 15:28:06,609 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 15:28:06,610 [main] INFO utilities.Log - Test addNewCustomer Succeeded !
+2017-04-18 16:47:53,409 [main] INFO utilities.Log - Test openGuru Started !
+2017-04-18 16:47:57,057 [main] INFO utilities.Log - New Mozilla driver instantiated
+2017-04-18 16:47:58,105 [main] INFO utilities.Log - Web application http://demo.guru99.com/V4/ launched successfully
+2017-04-18 16:48:00,110 [main] INFO utilities.Log - Test openGuru Succeeded !
+2017-04-18 16:48:00,122 [main] INFO utilities.Log - Test loginGuru Started !
+2017-04-18 16:48:00,301 [main] INFO utilities.Log - Clicked on Login successfully !
+2017-04-18 16:48:02,368 [main] INFO utilities.Log - User logged in to Guru99 successfully !
+2017-04-18 16:48:02,371 [main] INFO utilities.Log - Test loginGuru Succeeded !
+2017-04-18 16:48:02,372 [main] INFO utilities.Log - Test addNewCustomer Started !
+2017-04-18 16:48:02,402 [main] INFO utilities.Log - Clicked on NewCustomer successfully !
+2017-04-18 16:48:05,469 [main] INFO utilities.Log - User navigated to Add New Customer page successfully !
+2017-04-18 16:48:05,883 [main] INFO utilities.Log - Clicked on Submit successfully !
+2017-04-18 16:48:08,939 [main] INFO utilities.Log - Customer Registered Successfully!!!
+2017-04-18 16:48:08,961 [main] INFO utilities.Log - Customer with Customer ID : 75711 registered successfully !
+2017-04-18 16:48:08,992 [main] INFO utilities.Log - Clicked on Continue successfully !
+2017-04-18 16:48:08,993 [main] INFO utilities.Log - Test addNewCustomer Succeeded !
+2017-04-18 16:48:08,996 [main] INFO utilities.Log - Test deleteCustomer Started !
+2017-04-18 16:48:09,030 [main] INFO utilities.Log - Clicked on DeleteCustomer successfully !
+2017-04-18 16:48:12,069 [main] INFO utilities.Log - User navigated to Delete Customer page successfully !
+2017-04-18 16:48:12,070 [main] INFO utilities.Log - Test deleteCustomer Succeeded !

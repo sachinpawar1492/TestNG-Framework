@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [suiteGuru]">
+  <listeners>
+    <listener class-name="utilities.TestNGListeners"/>
+  </listeners>
+  <test name="testGuru(failed)">
+    <classes>
+      <class name="testNG.DummyTest">
+        <methods>
+          <include name="openGuru"/>
+          <include name="addNewCustomer"/>
+          <include name="closeBrowser"/>
+          <include name="loginGuru"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- testNG.DummyTest -->
+    </classes>
+  </test> <!-- testGuru(failed) -->
+</suite> <!-- Failed suite [suiteGuru] -->
